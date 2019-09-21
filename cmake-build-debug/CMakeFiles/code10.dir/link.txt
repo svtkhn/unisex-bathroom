@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/code10.dir/pc_sem.c.o CMakeFiles/code10.dir/uthread.c.o CMakeFiles/code10.dir/uthread_mutex_cond.c.o CMakeFiles/code10.dir/uthread_sem.c.o  -o code10 
